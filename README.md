@@ -38,5 +38,13 @@ Visit `http://localhost:8080/swagger-ui.html` after starting the application to 
 
 This project provides a scalable and efficient backend solution for managing product data. Feel free to explore and integrate it with your frontend application.
 
+## Swagger Screenshots
+
+![Swagger 1](./Swagger (1).png)
+![Swagger 2](./Swagger (2).png)
+![Swagger 3](./Swagger (3).png)
+![Swagger 4](./Swagger (4).png)
+
+
 ---
 
